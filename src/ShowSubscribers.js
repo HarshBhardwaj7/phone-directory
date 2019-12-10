@@ -40,3 +40,4 @@ class ShowSubscribers extends Component {
   }
 }
 
+export default ShowSubscribers;
